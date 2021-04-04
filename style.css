@@ -1,0 +1,9 @@
+body{
+    background-color: lightcoral;
+    
+}
+fieldset{
+    border-radius: 2em;
+    text-align: justify;
+    background-color: khaki;
+}
